@@ -7,10 +7,13 @@
 <img width="295" alt="Screen Shot 2022-03-12 at 2 19 06 PM" src="https://user-images.githubusercontent.com/100246124/158031893-70e067f6-e9d2-4114-9ed3-93756958a376.png">
 
 ### * Denver was the county with the largest percentage of votes recieived with almost 83% of the total votes! 
+<img width="306" alt="Screen Shot 2022-03-12 at 2 58 57 PM" src="https://user-images.githubusercontent.com/100246124/158033060-ac5042bb-a046-4eec-8361-6a1fe0abc65e.png">
+
 ### * There was three candidates that participated in the congressional election. Charles Casper Stockham received 23% of the votes with a total of 85,213 votes. Diana DeGette received 73.8% of the votes with 277,892 votes. Raymond Anthony Doane received the least amount of votes with only 11,606 of the votes and 3.1% of the total votes. 
 <img width="350" alt="Screen Shot 2022-03-12 at 2 24 41 PM" src="https://user-images.githubusercontent.com/100246124/158032076-4adf833b-53b9-4310-b8ec-a9fdb1b5d367.png">
 
 ### * Diane DeGette was the candidate that received the most amount of total votes with 272,892 votes and 73.8% of the votes. 
+<img width="323" alt="Screen Shot 2022-03-12 at 2 59 55 PM" src="https://user-images.githubusercontent.com/100246124/158033073-789b558a-e24d-4e9e-9d08-2805879983dd.png">
 
 ## Election-Audit Summary
 ### After conducting this analysis, this script can be used in a variety of ways. One modification that can be done is to include the total number of eligible voters in each county and compare those number with the voter turnout by county. This can be useful in analysing the percentage of voter turnout by the total number of eligible voters by county. Almost 84% of the votes came from Denver County but are 84% of the eligible voters in this congressional district located in Denver County? Furthermore, we can anaylize what percentage of the eligible voters live in Arapahoe County. If it is greater than 3% of this congressional district then this would identify a huge problem, low voter turnout in Arapahoe County. 
